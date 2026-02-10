@@ -71,12 +71,12 @@ cd HyperASCII-v3
 ### 3. Install dependencies (Pillow, Tkinter)
 pip install -r requirements.txt ´´
 
-## 5 Usage Guide
+##  Usage Guide
 To launch the scientific interface:
 
 python hyper_ascii.py
 
-##  Workflow
+###  Workflow
 
 Load Source: Import high-contrast raster images (.jpg, .png).
 
@@ -96,7 +96,7 @@ Save .TXT: For plain text representation.
 Save .HTML: To apply the Chromatic Interpolation engine.
 
 
-## 6 Roadmap
+##  Roadmap
 [x] v3.0: Chromatic Engine & Event Gating (Current)
 
 [ ] v3.1: Multi-threading for 4K image processing.
