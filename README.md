@@ -62,13 +62,13 @@ Where:
 
 Ensure you have **Python 3.9+** installed.
 
-# 1. Clone the repository
+### 1. Clone the repository
 git clone [https://github.com/ZerxStarCode/HyperASCII-v3.git](https://github.com/ZerxStarCode/HyperASCII-v3.git)
 
-# 2. Navigate to the project directory
+### 2. Navigate to the project directory
 cd HyperASCII-v3
 
-# 3. Install dependencies (Pillow, Tkinter)
+### 3. Install dependencies (Pillow, Tkinter)
 pip install -r requirements.txt ´´
 
 ## Usage Guide
