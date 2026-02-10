@@ -62,7 +62,6 @@ Where:
 
 Ensure you have **Python 3.9+** installed.
 
-```bash
 # 1. Clone the repository
 git clone [https://github.com/ZerxStarCode/HyperASCII-v3.git](https://github.com/ZerxStarCode/HyperASCII-v3.git)
 
@@ -70,4 +69,37 @@ git clone [https://github.com/ZerxStarCode/HyperASCII-v3.git](https://github.com
 cd HyperASCII-v3
 
 # 3. Install dependencies (Pillow, Tkinter)
-pip install -r requirements.txt
+pip install -r requirements.txt ´´
+
+## Usage Guide
+To launch the scientific interface:
+
+python hyper_ascii.py
+
+## Workflow
+
+Load Source: Import high-contrast raster images (.jpg, .png).
+
+Parameter Tuning:
+
+Resolution: Adjust width (suggested: 150-200 chars for text files).
+Contrast (Gamma): Increase >1.5 for sharper edge definition.
+
+Rendering Mode:
+
+Standard: For general photography.
+Block: For architectural/brutalist styles.
+
+Export:
+
+Save .TXT: For plain text representation.
+Save .HTML: To apply the Chromatic Interpolation engine.
+
+
+
+
+
+
+
+
+
