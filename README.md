@@ -41,6 +41,20 @@ HyperASCII v3.0 is designed to bridge the gap between raster graphics and text-b
 
 ---
 
+
+
+
+
+<img width="1201" height="831" alt="image" src="https://github.com/user-attachments/assets/dbcfb415-eb57-47b2-a492-c460c3e457f0" />
+
+
+
+
+
+
+
+---
+
 ##  Mathematical Principles
 
 The core color reconstruction relies on Linear Interpolation within the RGB vector space.
